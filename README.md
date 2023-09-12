@@ -4,4 +4,4 @@
 
 Where should the gates be placed? 
 Initially the first gate was placed at level 30. 
-</p><strong>The goal of analysis: estimate the impact on 1- and 7-day player retention if the first gate will be moved from level 30 to level 40.<strong></p>
+</p><strong>The goal of analysis: estimate the impact on 1- and 7-day retention of players if the first gate will be moved from level 30 to level 40.<strong></p>
